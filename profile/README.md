@@ -38,3 +38,7 @@ handling localization.
 
 Check out the [documentation](https://allay-mc.github.io/docs) to get started
 with Allay.
+
+---
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.
