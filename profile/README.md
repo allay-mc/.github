@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="./allay.gif"
-    width="50%"
+    src="https://github.com/allay-mc/.github/blob/main/profile/allay.gif?raw=true"
+    width="25%"
     align="center"
     alt="Animated Allay"
   />
