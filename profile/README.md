@@ -31,13 +31,15 @@ handling localization.
   spanish (`es-mx`) and it will be available for *spanish spanish* (`es-es`)
   as well.
 - Written in the [Rust programming language](https://www.rust-lang.org/) which
-  is *blazingly fast*.
+  is *blazingly fast*.[^1]
 
 
 ## Where to go from here
 
 Check out the [documentation](https://allay-mc.github.io/docs) to get started
 with Allay.
+
+[^1]: or in other terms: we use rust btw
 
 ---
 
