@@ -39,7 +39,7 @@ handling localization.
 Check out the [documentation](https://allay-mc.github.io/docs) to get started
 with Allay.
 
-[^1]: or in other terms: we use rust btw
+[^1]: or in other terms: "we use rust btw"
 
 ---
 
