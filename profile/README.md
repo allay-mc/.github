@@ -26,10 +26,13 @@ handling localization.
   JSON which can be read by Minecraft. The `manifest.json` is generated
   automatically by Allay.
 - Generating UUIDs over and over again can be troublesome so Allay fully takes
-  care of managing them in your project.
+  care of managing them in your project. For instance the `allay uuid` command
+  can be used to get a nice overview of used UUIDs.
 - Built-in advanced handling of languages: Translate your project to mexican
   spanish (`es-mx`) and it will be available for *spanish spanish* (`es-es`)
-  as well.
+  as well. Allay extends your existing `.lang` file (or creates new one until
+  each language is covered) by adding the appropiate name and description of the
+  pack.
 - Written in the [Rust programming language](https://www.rust-lang.org/) which
   is *blazingly fast*.[^1]
 
