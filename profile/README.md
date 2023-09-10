@@ -30,7 +30,7 @@ handling localization.
   can be used to get a nice overview of used UUIDs.
 - Built-in advanced handling of languages: Translate your project to mexican
   spanish (`es-mx`) and it will be available for *spanish spanish* (`es-es`)
-  as well. Allay extends your existing `.lang` file (or creates new one until
+  as well. Allay extends your existing `.lang` file (or creates new ones until
   each language is covered) by adding the appropiate name and description of the
   pack.
 - Written in the [Rust programming language](https://www.rust-lang.org/) which
