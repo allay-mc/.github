@@ -11,14 +11,17 @@
   </p>
 </p>
 
+<!-- ANCHOR: description -->
 Allay is a command-line application which can be used to create add-ons for
 Minecraft: Bedrock Edition. It's goal is to take over the boring work you
 would do when manually developing an add-on such as generating UUIDs and
 handling localization.
+<!-- ANCHOR_END: description -->
 
 
 ## Philosophy
 
+<!-- ANCHOR: philosophy -->
 - `allay build` and double-click on the built add-on. It can be that simple.
 - We believe that the JSON format should be used by machines and not humans.
   Therefore [TOML](https://toml.io) is used for configuartion and scripts
@@ -35,6 +38,7 @@ handling localization.
   pack.
 - Written in the [Rust programming language](https://www.rust-lang.org/) which
   is *blazingly fast*.[^1]
+<!-- ANCHOR_END: philosophy -->
 
 
 ## Where to go from here
